@@ -1,7 +1,7 @@
 # College-Website
 This is a college website built using HTML, CSS, JavaScript, and PHP. It is designed to provide information about the college and its programs to prospective students, current students, faculty, and staff.
 # Features
-The website includes the following features:
+The website includes the following features: 
 
 Home page with an overview of the college and links to key areas of the website
 Programs page with information about the college's academic programs
@@ -40,4 +40,3 @@ git push origin new-feature
 This website was created by Your Ayush Singh Rawat.
 # License
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
-
