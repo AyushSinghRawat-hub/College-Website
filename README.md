@@ -18,23 +18,23 @@ Start the web server and ensure that PHP is enabled.<br>
 Copy the contents of the college-website folder to the web server's document root directory (e.g. htdocs in XAMPP).<br>
 Access the website by navigating to http://localhost/college-website in your web browser.
 # Usage
-This website is intended to be used as a template for a college website. You can customize the content and styling to fit your college's needs.
-
+This website is intended to be used as a template for a college website.
+You can customize the content and styling to fit your college's needs.
 To make changes to the website, edit the HTML, CSS, and JavaScript files in the public folder. You can also modify the PHP files in the app folder to add dynamic functionality such as user authentication.
 
 # Contributing
-If you would like to contribute to this project, please follow these steps:
-1.Fork the repository to your own GitHub account.
+If you would like to contribute to this project, please follow these steps:<br>
+1.Fork the repository to your own GitHub account.<br>
 2.Clone the repository to your local machine:
-git clone https://github.com/AyushSinghRawat-hub/college-website.git
+git clone https://github.com/AyushSinghRawat-hub/college-website.git<br>
 3.Create a new branch to work on:
-git checkout -b new-feature
-4.Make changes to the code and commit them:
-git add .
-git commit -m "Add new feature"
+git checkout -b new-feature<br>
+4.Make changes to the code and commit them:<br>
+git add .<br>
+git commit -m "Add new feature"<br>
 5.Push your changes to GitHub:
-git push origin new-feature
-6.Open a pull request on GitHub and describe your changes.
+git push origin new-feature<br>
+6.Open a pull request on GitHub and describe your changes.<br>
 # Credits
 This website was created by Your Ayush Singh Rawat.
 # License
