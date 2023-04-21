@@ -11,12 +11,11 @@ Faculty and staff page with information about the college's faculty and staff me
 Contact page with a form for submitting questions and feedback to the college
 Login page for registered users
 # Installation
-To install this website on your own system, follow these steps:
-Clone the repository to your local machine:
-git clone https://github.com/AyushSinghRawat-hub/college-website.git
-Install a local web server such as XAMPP or WAMP.
-Start the web server and ensure that PHP is enabled.
-Copy the contents of the college-website folder to the web server's document root directory (e.g. htdocs in XAMPP).
+To install this website on your own system, follow these steps:<br>
+Clone the repository to your local machine:git clone https://github.com/AyushSinghRawat-hub/college-website.git<br>
+Install a local web server such as XAMPP or WAMP.<br>
+Start the web server and ensure that PHP is enabled.<br>
+Copy the contents of the college-website folder to the web server's document root directory (e.g. htdocs in XAMPP).<br>
 Access the website by navigating to http://localhost/college-website in your web browser.
 # Usage
 This website is intended to be used as a template for a college website. You can customize the content and styling to fit your college's needs.
