@@ -25,14 +25,14 @@ To make changes to the website, edit the HTML, CSS, and JavaScript files in the 
 # Contributing
 If you would like to contribute to this project, please follow these steps:<br>
 1.Fork the repository to your own GitHub account.<br>
-2.Clone the repository to your local machine:
+2.Clone the repository to your local machine:<br>
 git clone https://github.com/AyushSinghRawat-hub/college-website.git<br>
 3.Create a new branch to work on:
 git checkout -b new-feature<br>
 4.Make changes to the code and commit them:<br>
 git add .<br>
 git commit -m "Add new feature"<br>
-5.Push your changes to GitHub:
+5.Push your changes to GitHub:<br>
 git push origin new-feature<br>
 6.Open a pull request on GitHub and describe your changes.<br>
 # Credits
